@@ -5,4 +5,3 @@ def parrot(phrase=Pretty bird!)
    "Squawk"
    phrase
 end
-parrot
