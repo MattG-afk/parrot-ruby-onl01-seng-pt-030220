@@ -4,7 +4,7 @@ def parrot(phrase="Pretty bird!")
    puts "Squawk!"
    
    "Squawk!"
-   
+   expect(phrase).to eq("Squawk!")
    
 end
 parrot
