@@ -4,5 +4,3 @@ def parrot(name="Pretty bird!")
   puts "Squawk!"
   return name
 end
-parrot
-parrot(Tom)
