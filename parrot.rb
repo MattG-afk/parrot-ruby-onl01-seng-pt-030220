@@ -4,4 +4,4 @@ def parrot(name="Pretty bird!")
    puts"Squawk!"
    "Squawk!"
 end
-parrot
+parrot("matt")
